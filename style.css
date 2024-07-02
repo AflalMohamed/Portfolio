@@ -138,3 +138,8 @@ ul a .active {
     text-decoration: none;
     border-radius: 6px;
 }
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 200px;}
